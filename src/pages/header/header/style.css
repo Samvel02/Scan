@@ -1,0 +1,60 @@
+.navig-header_container {
+    display: flex;
+}
+
+.title-navig-center {
+    padding: 0 49px;
+}
+
+.headerverticalline {
+    padding: 0 20px;
+}
+
+.navig-header-auth {
+    display: flex;
+    align-items: center
+}
+
+.title-navig {
+    font-family: inter;
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    line-height: 17px;
+    font-weight: 400;
+}
+.title-navig:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.title-registr {
+    font-family: inter;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    opacity: 40%;
+    font-size: 16px;
+    line-height: 17px;
+    font-weight: 400;
+}
+.title-registr:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.title-auth {
+    font-family: inter;
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    line-height: 17px;
+    font-weight: 400;
+    border: 1px solid #7CE3E1;
+    background-color: #7CE3E1;
+    border-radius: 4px;
+    padding: 3px 12px;
+}
+.title-auth:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
